@@ -1,4 +1,5 @@
 # Imitation Learning
+The code is based on Windows 11, simulation using Genesis 0.3.4. WSL2 Ubuntu 24.04.1.
 
 If WSL meets problems with screen requests, add these lines to your `~/.bashrc`:
 
